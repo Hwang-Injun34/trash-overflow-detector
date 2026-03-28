@@ -1,0 +1,372 @@
+2025-05-31 23:50:18,103 - INFO - GUI 모드 시작
+2025-05-31 23:50:18,103 - INFO - GUI 모드 시작
+2025-05-31 23:50:19,573 - INFO - 카메라 초기화 완료
+2025-05-31 23:50:19,587 - INFO - 모델 로드 완료: /Users/namgungmyeongsu/Desktop/embedded_project_final_full_logging/app/model/best8.pt
+2025-05-31 23:50:25,332 - INFO - 카메라 리소스 해제
+2025-05-31 23:50:25,335 - INFO - 사용자 요청으로 시스템 종료
+2025-05-31 23:51:32,949 - INFO - GUI 모드 시작
+2025-05-31 23:51:32,950 - INFO - GUI 모드 시작
+2025-05-31 23:51:34,422 - INFO - 카메라 초기화 완료
+2025-05-31 23:51:34,436 - INFO - 모델 로드 완료: /Users/namgungmyeongsu/Desktop/embedded_project_final_full_logging/app/model/best8.pt
+2025-05-31 23:51:37,105 - INFO - 카메라 리소스 해제
+2025-05-31 23:51:37,108 - INFO - 사용자 요청으로 시스템 종료
+2025-05-31 23:52:01,080 - INFO - GUI 모드 시작
+2025-05-31 23:52:01,080 - INFO - GUI 모드 시작
+2025-05-31 23:52:02,578 - INFO - 사용자 요청으로 시스템 종료
+2025-05-31 23:52:34,810 - INFO - GUI 모드 시작
+2025-05-31 23:52:36,272 - INFO - 카메라 초기화 완료
+2025-05-31 23:52:36,286 - INFO - 모델 로드 완료: /Users/namgungmyeongsu/Desktop/embedded_project_final_full_logging/app/model/best8.pt
+2025-05-31 23:52:40,800 - INFO - 카메라 리소스 해제
+2025-05-31 23:52:40,802 - INFO - 사용자 요청으로 시스템 종료
+2025-05-31 23:53:23,721 - INFO - CLI 모드 시작
+2025-05-31 23:53:23,721 - INFO - [카메라 시작] 카메라 작동 시작
+2025-05-31 23:53:25,193 - INFO - 카메라 초기화 완료
+2025-05-31 23:53:27,480 - INFO - 카메라 리소스 해제
+2025-05-31 23:53:27,480 - INFO - 사용자 요청으로 시스템 종료
+2025-05-31 23:56:13,156 - INFO - CLI 모드 시작
+2025-05-31 23:56:13,156 - INFO - [카메라 시작] 카메라 작동 시작
+2025-05-31 23:56:14,612 - INFO - 카메라 초기화 완료
+2025-05-31 23:56:25,240 - INFO - [저장 성공] 이미지 저장 완료: alert_images/overflow_20250531_235625.jpg
+2025-05-31 23:56:25,240 - INFO - [이미지 저장] Overflow 감지됨 - 저장된 이미지: alert_images/overflow_20250531_235625.jpg
+2025-05-31 23:56:25,240 - INFO - [이메일 발송] 센서 정상 - 청소부에게 전송 중...
+2025-05-31 23:56:31,260 - INFO - 이메일 전송 성공: alert_images/overflow_20250531_235625.jpg
+2025-05-31 23:56:31,261 - INFO - [이메일 발송 완료] 청소부에게 전송 완료
+2025-05-31 23:56:31,349 - INFO - 카메라 리소스 해제
+2025-05-31 23:56:31,349 - INFO - [카메라 중지] 카메라 작동 중단
+2025-05-31 23:56:31,349 - INFO - [대기 중] 10분 대기 후 카메라 재시작
+2025-05-31 23:57:26,977 - INFO - 사용자 요청으로 시스템 종료
+2025-06-01 00:04:06,123 - INFO - CLI 모드 시작
+2025-06-01 00:04:06,123 - INFO - [카메라 시작] 카메라 작동 시작
+2025-06-01 00:04:07,590 - INFO - 카메라 초기화 완료
+2025-06-01 00:04:27,491 - INFO - [이미지 저장] Overflow 감지됨 - 저장된 이미지: /Users/namgungmyeongsu/Desktop/embedded_project_final_full_logging/alert_images/overflow_20250601_000427.jpg
+2025-06-01 00:04:27,491 - INFO - [이메일 발송] 센서 정상 - 청소부에게 전송 중...
+2025-06-01 00:04:33,979 - INFO - 이메일 전송 성공: /Users/namgungmyeongsu/Desktop/embedded_project_final_full_logging/alert_images/overflow_20250601_000427.jpg
+2025-06-01 00:04:33,980 - INFO - [이메일 발송 완료] 청소부에게 전송 완료
+2025-06-01 00:04:34,092 - INFO - 카메라 리소스 해제
+2025-06-01 00:04:34,092 - INFO - [카메라 중지] 카메라 작동 중단
+2025-06-01 00:04:34,093 - INFO - [대기 중] 10분 대기 후 카메라 재시작
+2025-06-01 00:13:04,099 - INFO - [카메라 시작] 카메라 작동 시작
+2025-06-01 00:13:05,439 - INFO - 카메라 초기화 완료
+2025-06-01 00:13:08,176 - INFO - 카메라 리소스 해제
+2025-06-01 00:13:08,177 - INFO - 사용자 요청으로 시스템 종료
+2025-06-01 00:14:04,027 - INFO - CLI 모드 시작
+2025-06-01 00:14:04,027 - INFO - [카메라 시작] 카메라 작동 시작
+2025-06-01 00:14:05,497 - INFO - 카메라 초기화 완료
+2025-06-01 00:14:16,754 - INFO - [이미지 저장] Overflow 감지됨 - 저장된 이미지: /Users/namgungmyeongsu/Desktop/embedded_project_final_full_logging/alert_images/overflow_20250601_001416.jpg
+2025-06-01 00:14:16,754 - INFO - [이메일 발송] 센서 정상 - 청소부에게 전송 중...
+2025-06-01 00:14:22,326 - INFO - 이메일 전송 성공: /Users/namgungmyeongsu/Desktop/embedded_project_final_full_logging/alert_images/overflow_20250601_001416.jpg
+2025-06-01 00:14:22,327 - INFO - [이메일 발송 완료] 청소부에게 전송 완료
+2025-06-01 00:14:22,426 - INFO - 카메라 리소스 해제
+2025-06-01 00:14:22,426 - INFO - [카메라 중지] 카메라 작동 중단
+2025-06-01 00:14:22,426 - INFO - [대기 중] 10분 대기 후 카메라 재시작
+2025-06-01 00:14:55,437 - INFO - 사용자 요청으로 시스템 종료
+2025-06-02 15:54:24,031 - INFO - GUI 모드 시작
+2025-06-02 15:54:25,432 - INFO - 카메라 초기화 완료
+2025-06-02 15:54:25,462 - INFO - 모델 로드 완료: /Users/namgungmyeongsu/Desktop/embedded_project/app/model/best8.pt
+2025-06-02 15:55:10,922 - INFO - GUI 모드 시작
+2025-06-02 15:55:12,431 - INFO - 카메라 초기화 완료
+2025-06-02 15:55:12,457 - INFO - 모델 로드 완료: /Users/namgungmyeongsu/Desktop/embedded_project/app/model/best8.pt
+2025-06-02 15:55:32,421 - INFO - 카메라 리소스 해제
+2025-06-02 15:56:15,685 - INFO - GUI 모드 시작
+2025-06-02 15:56:17,190 - INFO - 카메라 초기화 완료
+2025-06-02 15:56:17,212 - INFO - 모델 로드 완료: /Users/namgungmyeongsu/Desktop/embedded_project/app/model/best8.pt
+2025-06-02 15:57:04,294 - INFO - 카메라 리소스 해제
+2025-06-02 15:58:32,903 - INFO - GUI 모드 시작
+2025-06-02 15:58:34,410 - INFO - 카메라 초기화 완료
+2025-06-02 15:58:34,431 - INFO - 모델 로드 완료: /Users/namgungmyeongsu/Desktop/embedded_project/app/model/best8.pt
+2025-06-09 22:48:10,613 - INFO - GUI 모드 시작
+2025-06-09 22:48:12,100 - INFO - 카메라 초기화 완료
+2025-06-09 22:48:12,132 - INFO - 모델 로드 완료: /Users/namgungmyeongsu/Desktop/embedded_project/app/model/best8.pt
+2025-06-09 22:52:58,464 - INFO - 카메라 리소스 해제
+2025-06-09 22:54:11,707 - INFO - CLI 모드 시작
+2025-06-09 22:54:11,708 - INFO - [카메라 시작] 카메라 작동 시작
+2025-06-09 22:54:11,847 - CRITICAL - 시스템 오류: 카메라 0 열기 실패
+2025-06-09 22:54:22,621 - INFO - CLI 모드 시작
+2025-06-09 22:54:22,621 - INFO - [카메라 시작] 카메라 작동 시작
+2025-06-09 22:54:23,967 - INFO - 카메라 초기화 완료
+2025-06-09 22:54:32,302 - INFO - GUI 모드 시작
+2025-06-09 22:54:32,857 - INFO - 카메라 초기화 완료
+2025-06-09 22:54:32,887 - INFO - 모델 로드 완료: /Users/namgungmyeongsu/Desktop/embedded_project/app/model/best8.pt
+2025-06-09 22:54:57,006 - INFO - [이미지 저장] Overflow 감지됨 - 저장된 이미지: /Users/namgungmyeongsu/Desktop/embedded_project/alert_images/overflow_20250609_225456.jpg
+2025-06-09 22:54:57,006 - INFO - [이메일 발송] 센서 정상 - 청소부에게 전송 중...
+2025-06-09 22:54:59,480 - WARNING - 이메일 전송 실패 (1회 시도): (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7482b0c6649sm5744029b3a.113 - gsmtp')
+Traceback (most recent call last):
+  File "/Users/namgungmyeongsu/Desktop/embedded_project/app/utils/email_sender.py", line 135, in send_alert_email
+    server.login(Email.SENDER, Email.PASSWORD)
+  File "/opt/anaconda3/lib/python3.12/smtplib.py", line 739, in login
+    (code, resp) = self.auth(
+                   ^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/smtplib.py", line 652, in auth
+    authobject(challenge).encode('ascii'), eol='')
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'encode'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/namgungmyeongsu/Desktop/embedded_project/app/utils/email_sender.py", line 133, in send_alert_email
+    with smtplib.SMTP(Email.SMTP_SERVER, Email.SMTP_PORT) as server:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/smtplib.py", line 284, in __exit__
+    raise SMTPResponseException(code, message)
+smtplib.SMTPResponseException: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7482b0c6649sm5744029b3a.113 - gsmtp')
+2025-06-09 22:55:07,700 - WARNING - 이메일 전송 실패 (2회 시도): (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-31349f17be8sm5774620a91.3 - gsmtp')
+Traceback (most recent call last):
+  File "/Users/namgungmyeongsu/Desktop/embedded_project/app/utils/email_sender.py", line 135, in send_alert_email
+    server.login(Email.SENDER, Email.PASSWORD)
+  File "/opt/anaconda3/lib/python3.12/smtplib.py", line 739, in login
+    (code, resp) = self.auth(
+                   ^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/smtplib.py", line 652, in auth
+    authobject(challenge).encode('ascii'), eol='')
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'encode'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/namgungmyeongsu/Desktop/embedded_project/app/utils/email_sender.py", line 133, in send_alert_email
+    with smtplib.SMTP(Email.SMTP_SERVER, Email.SMTP_PORT) as server:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/smtplib.py", line 284, in __exit__
+    raise SMTPResponseException(code, message)
+smtplib.SMTPResponseException: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-31349f17be8sm5774620a91.3 - gsmtp')
+2025-06-09 22:55:14,880 - WARNING - 이메일 전송 실패 (3회 시도): (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-23603affa73sm54075405ad.253 - gsmtp')
+Traceback (most recent call last):
+  File "/Users/namgungmyeongsu/Desktop/embedded_project/app/utils/email_sender.py", line 135, in send_alert_email
+    server.login(Email.SENDER, Email.PASSWORD)
+  File "/opt/anaconda3/lib/python3.12/smtplib.py", line 739, in login
+    (code, resp) = self.auth(
+                   ^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/smtplib.py", line 652, in auth
+    authobject(challenge).encode('ascii'), eol='')
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'encode'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/namgungmyeongsu/Desktop/embedded_project/app/utils/email_sender.py", line 133, in send_alert_email
+    with smtplib.SMTP(Email.SMTP_SERVER, Email.SMTP_PORT) as server:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/smtplib.py", line 284, in __exit__
+    raise SMTPResponseException(code, message)
+smtplib.SMTPResponseException: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-23603affa73sm54075405ad.253 - gsmtp')
+2025-06-09 22:55:19,883 - ERROR - 이메일 전송 최종 실패: /Users/namgungmyeongsu/Desktop/embedded_project/alert_images/overflow_20250609_225456.jpg
+2025-06-09 22:55:19,884 - INFO - [이메일 발송 완료] 청소부에게 전송 완료
+2025-06-09 22:55:19,894 - INFO - 카메라 리소스 해제
+2025-06-09 22:55:19,895 - INFO - [카메라 중지] 카메라 작동 중단
+2025-06-09 22:55:19,895 - INFO - [대기 중] 10분 대기 후 카메라 재시작
+2025-06-09 22:55:26,312 - INFO - 사용자 요청으로 시스템 종료
+2025-06-09 22:55:32,689 - INFO - 카메라 리소스 해제
+2025-06-09 22:55:42,356 - INFO - GUI 모드 시작
+2025-06-09 22:55:43,669 - INFO - 카메라 초기화 완료
+2025-06-09 22:55:43,708 - INFO - 모델 로드 완료: /Users/namgungmyeongsu/Desktop/embedded_project/app/model/best8.pt
+2025-06-09 22:55:53,095 - INFO - 카메라 리소스 해제
+2025-06-09 22:56:00,168 - INFO - GUI 모드 시작
+2025-06-09 22:56:01,469 - INFO - 카메라 초기화 완료
+2025-06-09 22:56:01,489 - INFO - 모델 로드 완료: /Users/namgungmyeongsu/Desktop/embedded_project/app/model/best8.pt
+2025-06-09 22:56:02,900 - INFO - 카메라 리소스 해제
+2025-06-09 22:56:08,387 - INFO - CLI 모드 시작
+2025-06-09 22:56:08,387 - INFO - [카메라 시작] 카메라 작동 시작
+2025-06-09 22:56:09,528 - INFO - 카메라 초기화 완료
+2025-06-09 22:56:40,448 - INFO - [이미지 저장] Overflow 감지됨 - 저장된 이미지: /Users/namgungmyeongsu/Desktop/embedded_project/alert_images/overflow_20250609_225640.jpg
+2025-06-09 22:56:40,448 - INFO - [이메일 발송] 센서 정상 - 청소부에게 전송 중...
+2025-06-09 22:56:42,976 - WARNING - 이메일 전송 실패 (1회 시도): (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7482b083abcsm5982227b3a.92 - gsmtp')
+Traceback (most recent call last):
+  File "/Users/namgungmyeongsu/Desktop/embedded_project/app/utils/email_sender.py", line 135, in send_alert_email
+    server.login(Email.SENDER, Email.PASSWORD)
+  File "/opt/anaconda3/lib/python3.12/smtplib.py", line 739, in login
+    (code, resp) = self.auth(
+                   ^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/smtplib.py", line 652, in auth
+    authobject(challenge).encode('ascii'), eol='')
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'encode'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/namgungmyeongsu/Desktop/embedded_project/app/utils/email_sender.py", line 133, in send_alert_email
+    with smtplib.SMTP(Email.SMTP_SERVER, Email.SMTP_PORT) as server:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/smtplib.py", line 284, in __exit__
+    raise SMTPResponseException(code, message)
+smtplib.SMTPResponseException: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7482b083abcsm5982227b3a.92 - gsmtp')
+2025-06-09 22:56:50,388 - WARNING - 이메일 전송 실패 (2회 시도): (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-236032fcf2esm55209715ad.123 - gsmtp')
+Traceback (most recent call last):
+  File "/Users/namgungmyeongsu/Desktop/embedded_project/app/utils/email_sender.py", line 135, in send_alert_email
+    server.login(Email.SENDER, Email.PASSWORD)
+  File "/opt/anaconda3/lib/python3.12/smtplib.py", line 739, in login
+    (code, resp) = self.auth(
+                   ^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/smtplib.py", line 652, in auth
+    authobject(challenge).encode('ascii'), eol='')
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'encode'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/namgungmyeongsu/Desktop/embedded_project/app/utils/email_sender.py", line 133, in send_alert_email
+    with smtplib.SMTP(Email.SMTP_SERVER, Email.SMTP_PORT) as server:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/smtplib.py", line 284, in __exit__
+    raise SMTPResponseException(code, message)
+smtplib.SMTPResponseException: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-236032fcf2esm55209715ad.123 - gsmtp')
+2025-06-09 22:56:57,697 - WARNING - 이메일 전송 실패 (3회 시도): (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-23603077fcbsm55352835ad.47 - gsmtp')
+Traceback (most recent call last):
+  File "/Users/namgungmyeongsu/Desktop/embedded_project/app/utils/email_sender.py", line 135, in send_alert_email
+    server.login(Email.SENDER, Email.PASSWORD)
+  File "/opt/anaconda3/lib/python3.12/smtplib.py", line 739, in login
+    (code, resp) = self.auth(
+                   ^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/smtplib.py", line 652, in auth
+    authobject(challenge).encode('ascii'), eol='')
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'encode'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/namgungmyeongsu/Desktop/embedded_project/app/utils/email_sender.py", line 133, in send_alert_email
+    with smtplib.SMTP(Email.SMTP_SERVER, Email.SMTP_PORT) as server:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/smtplib.py", line 284, in __exit__
+    raise SMTPResponseException(code, message)
+smtplib.SMTPResponseException: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-23603077fcbsm55352835ad.47 - gsmtp')
+2025-06-09 22:57:02,705 - ERROR - 이메일 전송 최종 실패: /Users/namgungmyeongsu/Desktop/embedded_project/alert_images/overflow_20250609_225640.jpg
+2025-06-09 22:57:02,705 - INFO - [이메일 발송 완료] 청소부에게 전송 완료
+2025-06-09 22:57:02,715 - INFO - 카메라 리소스 해제
+2025-06-09 22:57:02,715 - INFO - [카메라 중지] 카메라 작동 중단
+2025-06-09 22:57:02,715 - INFO - [대기 중] 10분 대기 후 카메라 재시작
+2025-06-09 22:57:04,574 - INFO - 사용자 요청으로 시스템 종료
+2025-06-09 22:58:24,404 - INFO - CLI 모드 시작
+2025-06-09 22:58:24,405 - INFO - [카메라 시작] 카메라 작동 시작
+2025-06-09 22:58:25,717 - INFO - 카메라 초기화 완료
+2025-06-09 22:58:58,210 - INFO - [이미지 저장] Overflow 감지됨 - 저장된 이미지: /Users/namgungmyeongsu/Desktop/embedded_project/alert_images/overflow_20250609_225858.jpg
+2025-06-09 22:58:58,210 - INFO - [이메일 발송] 센서 정상 - 청소부에게 전송 중...
+2025-06-09 22:59:01,158 - WARNING - 이메일 전송 실패 (1회 시도): (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7482b0e9d4csm5745304b3a.154 - gsmtp')
+Traceback (most recent call last):
+  File "/Users/namgungmyeongsu/Desktop/embedded_project/app/utils/email_sender.py", line 135, in send_alert_email
+    server.login(Email.SENDER, Email.PASSWORD)
+  File "/opt/anaconda3/lib/python3.12/smtplib.py", line 739, in login
+    (code, resp) = self.auth(
+                   ^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/smtplib.py", line 652, in auth
+    authobject(challenge).encode('ascii'), eol='')
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'encode'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/namgungmyeongsu/Desktop/embedded_project/app/utils/email_sender.py", line 133, in send_alert_email
+    with smtplib.SMTP(Email.SMTP_SERVER, Email.SMTP_PORT) as server:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/smtplib.py", line 284, in __exit__
+    raise SMTPResponseException(code, message)
+smtplib.SMTPResponseException: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7482b0e9d4csm5745304b3a.154 - gsmtp')
+2025-06-09 22:59:08,801 - WARNING - 이메일 전송 실패 (2회 시도): (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-3134b13b45dsm6210554a91.37 - gsmtp')
+Traceback (most recent call last):
+  File "/Users/namgungmyeongsu/Desktop/embedded_project/app/utils/email_sender.py", line 135, in send_alert_email
+    server.login(Email.SENDER, Email.PASSWORD)
+  File "/opt/anaconda3/lib/python3.12/smtplib.py", line 739, in login
+    (code, resp) = self.auth(
+                   ^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/smtplib.py", line 652, in auth
+    authobject(challenge).encode('ascii'), eol='')
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'encode'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/namgungmyeongsu/Desktop/embedded_project/app/utils/email_sender.py", line 133, in send_alert_email
+    with smtplib.SMTP(Email.SMTP_SERVER, Email.SMTP_PORT) as server:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/smtplib.py", line 284, in __exit__
+    raise SMTPResponseException(code, message)
+smtplib.SMTPResponseException: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-3134b13b45dsm6210554a91.37 - gsmtp')
+2025-06-09 22:59:16,792 - WARNING - 이메일 전송 실패 (3회 시도): (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-236032fc7c1sm54760475ad.89 - gsmtp')
+Traceback (most recent call last):
+  File "/Users/namgungmyeongsu/Desktop/embedded_project/app/utils/email_sender.py", line 135, in send_alert_email
+    server.login(Email.SENDER, Email.PASSWORD)
+  File "/opt/anaconda3/lib/python3.12/smtplib.py", line 739, in login
+    (code, resp) = self.auth(
+                   ^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/smtplib.py", line 652, in auth
+    authobject(challenge).encode('ascii'), eol='')
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'encode'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/namgungmyeongsu/Desktop/embedded_project/app/utils/email_sender.py", line 133, in send_alert_email
+    with smtplib.SMTP(Email.SMTP_SERVER, Email.SMTP_PORT) as server:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/smtplib.py", line 284, in __exit__
+    raise SMTPResponseException(code, message)
+smtplib.SMTPResponseException: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-236032fc7c1sm54760475ad.89 - gsmtp')
+2025-06-09 22:59:21,799 - ERROR - 이메일 전송 최종 실패: /Users/namgungmyeongsu/Desktop/embedded_project/alert_images/overflow_20250609_225858.jpg
+2025-06-09 22:59:21,800 - INFO - [이메일 발송 완료] 청소부에게 전송 완료
+2025-06-09 22:59:21,823 - INFO - 카메라 리소스 해제
+2025-06-09 22:59:21,823 - INFO - [카메라 중지] 카메라 작동 중단
+2025-06-09 22:59:21,823 - INFO - [대기 중] 10분 대기 후 카메라 재시작
+2025-06-09 23:01:14,265 - INFO - 사용자 요청으로 시스템 종료
+2025-06-09 23:01:20,512 - INFO - CLI 모드 시작
+2025-06-09 23:01:20,513 - INFO - [카메라 시작] 카메라 작동 시작
+2025-06-09 23:01:21,817 - INFO - 카메라 초기화 완료
+2025-06-09 23:01:53,275 - INFO - [이미지 저장] Overflow 감지됨 - 저장된 이미지: /Users/namgungmyeongsu/Desktop/embedded_project/alert_images/overflow_20250609_230153.jpg
+2025-06-09 23:01:53,275 - INFO - [이메일 발송] 센서 정상 - 청소부에게 전송 중...
+2025-06-09 23:02:00,560 - INFO - 이메일 전송 성공: /Users/namgungmyeongsu/Desktop/embedded_project/alert_images/overflow_20250609_230153.jpg
+2025-06-09 23:02:00,561 - INFO - [이메일 발송 완료] 청소부에게 전송 완료
+2025-06-09 23:02:00,574 - INFO - 카메라 리소스 해제
+2025-06-09 23:02:00,575 - INFO - [카메라 중지] 카메라 작동 중단
+2025-06-09 23:02:00,575 - INFO - [대기 중] 10분 대기 후 카메라 재시작
+2025-06-09 23:02:09,171 - INFO - 사용자 요청으로 시스템 종료
+2025-06-09 23:03:44,272 - INFO - GUI 모드 시작
+2025-06-09 23:03:45,608 - INFO - 카메라 초기화 완료
+2025-06-09 23:03:45,642 - INFO - 모델 로드 완료: /Users/namgungmyeongsu/Desktop/embedded_project/app/model/best8.pt
+2025-06-09 23:03:50,390 - INFO - CLI 모드 시작
+2025-06-09 23:03:50,390 - INFO - [카메라 시작] 카메라 작동 시작
+2025-06-09 23:03:50,779 - INFO - 카메라 초기화 완료
+2025-06-09 23:04:49,513 - INFO - [이미지 저장] Overflow 감지됨 - 저장된 이미지: /Users/namgungmyeongsu/Desktop/embedded_project/alert_images/overflow_20250609_230449.jpg
+2025-06-09 23:04:49,514 - INFO - [이메일 발송] 센서 정상 - 청소부에게 전송 중...
+2025-06-09 23:04:56,365 - INFO - 이메일 전송 성공: /Users/namgungmyeongsu/Desktop/embedded_project/alert_images/overflow_20250609_230449.jpg
+2025-06-09 23:04:56,366 - INFO - [이메일 발송 완료] 청소부에게 전송 완료
+2025-06-09 23:04:56,376 - INFO - 카메라 리소스 해제
+2025-06-09 23:04:56,376 - INFO - [카메라 중지] 카메라 작동 중단
+2025-06-09 23:04:56,377 - INFO - [대기 중] 10분 대기 후 카메라 재시작
+2025-06-09 23:06:17,766 - INFO - 카메라 리소스 해제
+2025-06-09 23:13:26,386 - INFO - [카메라 시작] 카메라 작동 시작
+2025-06-09 23:13:27,474 - INFO - 카메라 초기화 완료
+2025-06-09 23:13:48,454 - INFO - 카메라 리소스 해제
+2025-06-09 23:13:48,455 - INFO - 사용자 요청으로 시스템 종료
+2025-06-09 23:17:42,393 - INFO - CLI 모드 시작
+2025-06-09 23:17:42,393 - INFO - [카메라 시작] 카메라 작동 시작
+2025-06-09 23:17:43,706 - INFO - 카메라 초기화 완료
+2025-06-09 23:18:16,417 - INFO - [이미지 저장] Overflow 감지됨 - 저장된 이미지: /Users/namgungmyeongsu/Desktop/embedded_project/alert_images/overflow_20250609_231816.jpg
+2025-06-09 23:18:16,418 - INFO - [이메일 발송] 센서 정상 - 청소부에게 전송 중...
+2025-06-09 23:18:23,424 - INFO - 이메일 전송 성공: /Users/namgungmyeongsu/Desktop/embedded_project/alert_images/overflow_20250609_231816.jpg
+2025-06-09 23:18:23,425 - INFO - [이메일 발송 완료] 청소부에게 전송 완료
+2025-06-09 23:18:23,440 - INFO - 카메라 리소스 해제
+2025-06-09 23:18:23,441 - INFO - [카메라 중지] 카메라 작동 중단
+2025-06-09 23:18:23,441 - INFO - [대기 중] 10분 대기 후 카메라 재시작
+2025-06-09 23:26:53,445 - INFO - [카메라 시작] 카메라 작동 시작
+2025-06-09 23:26:54,540 - INFO - 카메라 초기화 완료
+2025-06-09 23:27:26,128 - INFO - [이미지 저장] Overflow 감지됨 - 저장된 이미지: /Users/namgungmyeongsu/Desktop/embedded_project/alert_images/overflow_20250609_232726.jpg
+2025-06-09 23:27:26,128 - INFO - [이메일 발송] 센서 정상 - 청소부에게 전송 중...
+2025-06-09 23:27:32,711 - INFO - 이메일 전송 성공: /Users/namgungmyeongsu/Desktop/embedded_project/alert_images/overflow_20250609_232726.jpg
+2025-06-09 23:27:32,711 - INFO - [이메일 발송 완료] 청소부에게 전송 완료
+2025-06-09 23:27:32,724 - INFO - 카메라 리소스 해제
+2025-06-09 23:27:32,724 - INFO - [카메라 중지] 카메라 작동 중단
+2025-06-09 23:27:32,724 - INFO - [대기 중] 10분 대기 후 카메라 재시작
+2025-06-09 23:36:02,729 - INFO - [카메라 시작] 카메라 작동 시작
+2025-06-09 23:36:03,817 - INFO - 카메라 초기화 완료
+2025-06-09 23:40:24,629 - INFO - GUI 모드 시작
+2025-06-09 23:40:26,035 - INFO - 카메라 초기화 완료
+2025-06-09 23:40:26,072 - INFO - 모델 로드 완료: /Users/namgungmyeongsu/Desktop/embedded_project/app/model/best8.pt
+2025-06-09 23:44:10,274 - INFO - 카메라 리소스 해제
+2025-06-09 23:44:10,279 - INFO - 사용자 요청으로 시스템 종료

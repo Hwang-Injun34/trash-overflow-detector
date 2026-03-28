@@ -1,0 +1,8 @@
+yolo5-envyolov5-env/
+__pycache__/
+*.pt
+runs/
+yolov5-env/
+__pycache__/
+*.pt
+runs/
